@@ -37,9 +37,8 @@
 
 <br clear="both">
 
-![GitHub Snake](https://raw.githubusercontent.com/RoshanZameerB/RoshanZameerB/output/github-contribution-grid-snake.svg)
 
-<h2 align="center">👾 PAC-MAN CONTRIBUTIONS</h2>
+
 
 <div align="center">
   <img

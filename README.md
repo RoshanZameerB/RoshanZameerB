@@ -38,6 +38,15 @@
 <br clear="both">
 
 ![GitHub Snake](https://raw.githubusercontent.com/RoshanZameerB/RoshanZameerB/output/github-contribution-grid-snake.svg)
+<h2 align="center">PAC-MAN CONTRIBUTIONS</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/RoshanZameerB/RoshanZameerB/output/pacman-contribution-graph.svg"
+    width="100%"
+    alt="Pacman Contribution Graph"
+  />
+</div>
 ###
 
 <div data-importer="music" align="center">

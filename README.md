@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi! im Roshan Zameer B an aspiring full-stack developer and cybersecurity enthusiast passionate about technology, creative problem-solving and building secure, meaningful digital experiences.</h2>
+<h2 data-importer="text" align="left">Hi! im Roshan Zameer.</h2>
 
 ###
 

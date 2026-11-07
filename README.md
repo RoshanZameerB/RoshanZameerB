@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-![Github Snake](https://githubusercontent.com)
+![GitHub Snake](https://raw.githubusercontent.com/RoshanZameerB/RoshanZameerB/output/github-contribution-grid-snake.svg)
 ###
 
 <div data-importer="music" align="center">

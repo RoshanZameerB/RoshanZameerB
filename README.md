@@ -58,11 +58,12 @@
 
 ###
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RoshanZameerB&show_icons=true&theme=dracula" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RoshanZameerB&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanZameerB&layout=compact&theme=dracula" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanZameerB&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="180"/>
 
 </div>
 

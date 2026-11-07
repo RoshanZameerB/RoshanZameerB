@@ -35,7 +35,6 @@
 
 ###
 
-<br clear="both">
 
 
 
